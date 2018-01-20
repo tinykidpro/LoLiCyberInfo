@@ -1,3 +1,4 @@
+ // LoLi Sec Team - Thuong EoPi
 var audioInput = null;
 var file = null;
 var fileName = "";
@@ -163,7 +164,7 @@ function cbButtonClick()
 		}
 		else
 		{
-			showError("Chưa có file nhạc nào được chọn", "Có thể tập tin bạn vừa chọn không hợp với MIME-pattern: audio/*");
+			showError("Lỗi!!!", "Vui lòng chọn file nhạc MP3 để được hổ trợ tốt nhất.");
 		}
 	}
 }
