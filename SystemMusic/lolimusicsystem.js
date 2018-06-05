@@ -1,3 +1,4 @@
+ // LoLi Sec Team - Thuong EoPi
 var audioInput = null;
 var file = null;
 var fileName = "";
